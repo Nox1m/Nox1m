@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Nox1m
-- 👀 I’m interested in: Programming and Aviation
-- 🌱 I’m currently learning: C, Python and C#
-- 💞️ I’m looking to collaborate on: Nothing, im still learning
-- 📫 How to reach me: Im Unreachable.
-- 😄 Pronouns: Py/thon
-- ⚡ Fun fact: I have +5k Hours in Geometry Dash and i play League of Gayness
+## Nyx
+
+🪷 — Hi! Im Nyx, an average programmer.
+
+🌊 — Currently Learning: C, Python.
+
+🌳 — League Of Legends Player & Geometry Dash Addict.
+
+🕷️ — Vampirized Since 1st Of November 2022 💜
